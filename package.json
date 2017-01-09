@@ -1,0 +1,32 @@
+{
+  "name": "metalsmith-twitter-card",
+  "version": "1.0.0",
+  "description": "Twitter card meta tags for Metalsmith.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitaliy-bobrov/metalsmith-twitter-card.git"
+  },
+  "keywords": [
+    "metalsmith",
+    "twitter",
+    "seo",
+    "social",
+    "share"
+  ],
+  "author": "Vitaliy Bobrov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitaliy-bobrov/metalsmith-twitter-card/issues"
+  },
+  "homepage": "https://github.com/vitaliy-bobrov/metalsmith-twitter-card#readme",
+  "devDependencies": {
+    "debug": "^2.6.0"
+  },
+  "dependencies": {
+    "cheerio": "^0.22.0"
+  }
+}
