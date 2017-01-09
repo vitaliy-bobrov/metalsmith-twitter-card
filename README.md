@@ -7,3 +7,12 @@
     $ npm install --save-dev metalsmith-twitter-card
 
 ## Usage
+
+```yaml
+twitter:
+  card: summary
+  site: '@username'
+  title: title
+  description: description
+
+```

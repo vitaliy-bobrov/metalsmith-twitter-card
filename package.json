@@ -27,6 +27,7 @@
     "debug": "^2.6.0"
   },
   "dependencies": {
-    "cheerio": "^0.22.0"
+    "cheerio": "^0.22.0",
+    "escape-html": "^1.0.3"
   }
 }
