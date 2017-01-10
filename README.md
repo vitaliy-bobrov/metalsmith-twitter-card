@@ -21,7 +21,7 @@ Metalsmith(__dirname)
   }));
 ```
 
-  To enable twitter tags generation add `twitter` to frontmatter with required sub-properties.
+  To enable twitter tags generation add `twitter` to frontmatter with required sub-properties. Or you can just set `twitter: true` to use default defined in plugin options.
   Properties cound be just a string value, css selector (only class and id supported), or metadata property name.
     Example:
 
