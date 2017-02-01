@@ -1,5 +1,8 @@
 # metalsmith-twitter-card
 
+[![npm version](https://badge.fury.io/js/metalsmith-twitter-card.svg)](https://badge.fury.io/js/metalsmith-twitter-card)
+[![npm](https://img.shields.io/npm/dt/metalsmith-twitter-card.svg)](https://github.com/vitaliy-bobrov/metalsmith-twitter-card)
+
   A Metalsmith plugin that adds [Twitter Card](https://dev.twitter.com/cards/overview) meta tags to enable Twitter share rich snippets.
   Plugin supports all twitter card types and validates file metadata to have all required properties.
 
