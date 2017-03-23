@@ -17,7 +17,7 @@
     "social",
     "share"
   ],
-  "author": "Vitaliy Bobrov",
+  "author": "Vitaliy Bobrov <bobrov1989@gmail.com> (https://vitaliy-bobrov.github.io)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/vitaliy-bobrov/metalsmith-twitter-card/issues"
