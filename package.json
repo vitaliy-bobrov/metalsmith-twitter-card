@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/vitaliy-bobrov/metalsmith-twitter-card#readme",
   "devDependencies": {
-    "debug": "^2.6.0"
+    "debug": "^2.6.3"
   },
   "dependencies": {
     "cheerio": "^0.22.0",
