@@ -24,10 +24,10 @@
   },
   "homepage": "https://github.com/vitaliy-bobrov/metalsmith-twitter-card#readme",
   "devDependencies": {
-    "debug": "^2.6.3"
+    "debug": "^4.1.1"
   },
   "dependencies": {
-    "cheerio": "^0.22.0",
+    "cheerio": "^1.0.0-rc.3",
     "escape-html": "^1.0.3"
   }
 }
