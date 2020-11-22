@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-twitter-card",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Twitter card meta tags for Metalsmith.",
   "main": "lib/index.js",
   "scripts": {
